@@ -1,7 +1,7 @@
 # 🛍️ Toko Prodak Onlen
 
 
-Toko Prodak Onlen adalah website marketplace produk digital yang menyediakan berbagai produk seperti UI Kit, E-book, Preset Foto, Font, Plugin, dan Kursus. Website ini memiliki fitur pencarian produk, kategori, promo, serta panduan pembelian dengan tampilan yang responsif menggunakan HTML dan CSS.
+Toko Prodak Onlen adalah website marketplace produk digital yang menyediakan berbagai produk seperti UI Kit, E-book, Preset Foto, Font, Plugin, dan Kursus. Website ini memiliki fitur pencarian produk, kategori, promo, serta panduan pembelian dengan tampilan yang responsif menggunakan HTML dan CSS-Tailwind.
 
 ## Fitur
 - Landing page modern
@@ -16,15 +16,14 @@ Toko Prodak Onlen adalah website marketplace produk digital yang menyediakan ber
 
 ## Teknologi
 - HTML5
-- CSS3
+- CSS-Tailwind
 - Font Awesome
 - Google Fonts (Poppins)
 
 ## Struktur Folder
 ```
 project/
-│── index.html
-│── style.css
+│── index-tailwind.html
 │── assets/
 │   ├── images/
 │   └── icons/
